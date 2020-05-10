@@ -1,0 +1,15 @@
+{
+	"name": "simplehost",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"bin": {
+		"simplehost": "src/index.js"
+	},
+	"dependencies": {
+		"axios": "^0.19.2",
+		"glob": "7.1.6",
+		"yargs": "^15.3.1"
+	},
+	"author": "Ken Mueller",
+	"license": "MIT"
+}
