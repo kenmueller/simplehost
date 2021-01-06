@@ -6,7 +6,7 @@
 		"simplehost": "src/index.js"
 	},
 	"dependencies": {
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"glob": "7.1.6",
 		"yargs": "^15.3.1"
 	},
